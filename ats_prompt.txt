@@ -1,0 +1,16 @@
+Prompt
+
+Convert the following resume into a clean ATS-friendly LaTeX format.
+
+##Requirements:
+- Simple structure
+- No tables, no graphics
+- Clear sections: Education, Skills, Projects, Experience
+- Use bullet points with action verbs
+- Keep it one page
+- Use consistent formatting
+
+Input:
+[Paste resume here]
+
+---
