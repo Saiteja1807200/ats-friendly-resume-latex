@@ -44,7 +44,7 @@ Step 5: Download
 
 ---
 
-##Key ATS Guidelines (applied in template)
+## Key ATS Guidelines (applied in template)
 
 - No tables or multi-column layouts
 - Standard section headings
@@ -54,7 +54,7 @@ Step 5: Download
 
 ---
 
-##Common Mistakes
+## Common Mistakes
 
 - Using Canva or design-heavy templates
 - Adding icons,images or progress bars
@@ -64,7 +64,7 @@ Step 5: Download
 
 ---
 
-##Results (example)
+## Results
 
 This approach was tested on entry-level job applications:
 
@@ -76,7 +76,7 @@ Note: Results vary based on skills,projects and role alignment.
 
 ---
 
-##Important Notes
+## Important Notes
 
 - This repo focuses on formatting and structure,not fake experience
 - ATS optimization improves visibility,it does not guarantee selection
@@ -84,7 +84,7 @@ Note: Results vary based on skills,projects and role alignment.
 
 ---
 
-##Future Improvements
+## Future Improvements
 
 - Role-specific keyword sets (DevOps,Full Stack,ML)
 - More resume examples
@@ -92,7 +92,7 @@ Note: Results vary based on skills,projects and role alignment.
 
 ---
 
-##Contribution
+## Contribution
 
 Contributions are welcome:
 
