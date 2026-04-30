@@ -14,6 +14,7 @@ Step 1: Prepare your data
 Step 2: Generate LaTeX code
 
 - Open https://docs.google.com/document/d/1Hca1JpsSdv9Az0HJSpCbH0pYcjmAbIKH7ADSPAuFYUw/edit?usp=drivesdk
+- or goto overleaf code.latex folder in the repo
 - copy the code from the file 
 - Paste your resume and code from the file
 - Use the prompt from "/prompts/ats_prompt.txt"
