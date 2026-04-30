@@ -1,0 +1,106 @@
+Workflow
+
+Step 1: Prepare your data
+
+- Use your existing resume
+- Or write details manually:
+  - Education
+  - Skills
+  - Projects
+  - Experience
+
+---
+
+Step 2: Generate LaTeX code
+
+- Open https://docs.google.com/document/d/1Hca1JpsSdv9Az0HJSpCbH0pYcjmAbIKH7ADSPAuFYUw/edit?usp=drivesdk
+- copy the code from the file 
+- Paste your resume and code from the file
+- Use the prompt from "/prompts/ats_prompt.txt"
+- Copy the generated LaTeX code
+
+---
+
+Step 3: Create project in Overleaf
+
+- Create a new blank project
+- Delete default code
+- Paste your LaTeX code
+
+---
+
+Step 4: Compile
+
+- Click Recompile
+- Fix errors if any
+
+---
+
+Step 5: Download
+
+- Export as PDF
+- Keep resume length to 1 page (for freshers)
+
+---
+
+##Key ATS Guidelines (applied in template)
+
+- No tables or multi-column layouts
+- Standard section headings
+- Text-based content only
+- Consistent bullet formatting
+- Keywords aligned with job descriptions
+
+---
+
+##Common Mistakes
+
+- Using Canva or design-heavy templates
+- Adding icons,images or progress bars
+- Writing long paragraphs instead of bullet points
+- Missing keywords from job description
+- Using inconsistent formatting
+
+---
+
+##Results (example)
+
+This approach was tested on entry-level job applications:
+
+- Applications sent: 50
+- Shortlisted: 6–10
+- Improvement observed after restructuring resume format
+
+Note: Results vary based on skills,projects and role alignment.
+
+---
+
+##Important Notes
+
+- This repo focuses on formatting and structure,not fake experience
+- ATS optimization improves visibility,it does not guarantee selection
+- Content quality still matters more than formatting
+
+---
+
+##Future Improvements
+
+- Role-specific keyword sets (DevOps,Full Stack,ML)
+- More resume examples
+- Error handling guide for LaTeX beginners
+
+---
+
+##Contribution
+
+Contributions are welcome:
+
+- Improve template
+- Add examples
+- Suggest better prompts
+
+
+License
+
+This project is open source and free to use.
+
